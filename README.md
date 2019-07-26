@@ -17,4 +17,4 @@
   
   _**Словарь**_
   
-[**object**](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Working_with_Objects) —  это набор свойств, и каждое свойство состоит из имени и значения, ассоциированного с этим именем.
+[*object*](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Working_with_Objects) — это набор свойств, и каждое свойство состоит из имени и значения, ассоциированного с этим именем.
